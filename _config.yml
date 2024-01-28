@@ -1,6 +1,17 @@
-title: Kaushal Yadav 
+title: <p align="center"> Kaushal Yadav </p>
+logo: /assets/img/Kaushal_new.png
 
-description: I'm working on Data Science
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kaushal012/">LinkedIn</a> |
+  <a href="https://github.com/data-KY">GitHub</a>
   
-theme: jekyll-theme-minimal
+  <br>   
+  I'm working on Data Science
+  <br>
+  </p>
 
+
+
+theme: jekyll-theme-minimal
